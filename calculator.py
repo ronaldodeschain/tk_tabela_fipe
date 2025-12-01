@@ -1,6 +1,8 @@
 import tkinter as tk
 import math
 
+#pyinstall --onefile -w calculator.py
+
 class Calculator(tk.Tk):
     def __init__(self):
         super().__init__()
